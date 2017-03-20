@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/HuiyuBi/HuiyuBi.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<h3> My 141B project </h3>
+<h3> My 141B project! </h3>
 <strong>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for </strong>
 
 ```markdown
