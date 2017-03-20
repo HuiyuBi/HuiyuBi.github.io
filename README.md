@@ -1,6 +1,5 @@
-## About me
-
-<p class = "red"> Hello! STA 141B</p>
+<h1> About me </h1>
+<p class = "red"> Hello! STA 141B </p>
 
 You can use the [editor on GitHub](https://github.com/HuiyuBi/HuiyuBi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,8 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
+### More projects
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuiyuBi/HuiyuBi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
