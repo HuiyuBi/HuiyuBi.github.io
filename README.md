@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About me
 
 <p class = "red"> Hello! STA 141B</p>
 
@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/HuiyuBi/HuiyuBi.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About me
+### My 141B project
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
