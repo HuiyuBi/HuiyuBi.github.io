@@ -8,7 +8,7 @@
 <ul>
 <li><strong> Yelp Data Visualization and Analysis </strong>
 <br>
-<p>Motivation: 
+<p><strongMotivation:</strong> <br>
    As we all know, America is a country full of diversive culture. People from all over the world come here to  
    work,study and live. Among different elements, food is one of the most interesting topics we want to discover 
    since it is so deeply involved in our daily life. On a large scale, we are interested in the spatial
@@ -16,15 +16,27 @@
    rating, number of reviews and their kinds’ distribution will give us a rough idea about our own choice of 
    food. As we go further in the discovery of restaurants, we expect we can find out connection between them by 
    their kinds.</p>
-<br>
 <p>
-Data Collection and Processing: 
-1. 
+<strong>Data Collection and Processing:</strong><br>
+We scrap the Yelp website pages to get the data. The total number of pages we scrap is over 20000. After getting the data from webpage, we first reformat some of the results. For instance, we treat reviews as numeric value and price as factors. Also we ignore the records with missing value. Finally we stack all those variables we got to be a dataframe.
+</p>
+<p>
+<strong>Data Exploration: </strong><br>
+1. Descriptive Statistics <br>
+2. Network Analysis
+</p>
 
-2. 
+<p>
+<strong>Future Improvement:</strong><br>
+1. During web scraping, we divide a city into smaller sub-areas to avoid records lost. But that still limit our
+ability to get the data when subareas has more than 1000 records. <br>
 
+2. For now, we only obtain records from three cities. In the future, in order to get a more clearer picture of
+information we get, we need to collect more data.
 
-
+3. This time, the goal for this project is data visualization. But this dataset is also good for building a
+recommendation system and so on. We can continue exploring that.
+</p>
 
 </li>
 
