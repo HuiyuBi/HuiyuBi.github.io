@@ -43,15 +43,16 @@ recommendation system and so on. We can continue exploring that. <br>
 <p><strong>Introduction:</strong><br>
 The Internet Movie Database (abbreviated IMDb) is an online database of information related to films, television
 programs and video games, including cast, production crew, fictional characters, biographies, plot summaries, 
-trivia and reviews. In this project, we tried to use machine learning methods to conduct sentimental analysis of 
+trivia and reviews. <br>
+In this project, we tried to use machine learning methods to conduct sentimental analysis of 
 a user’s polar rating for a particular movie based on his/her comment for this movie. We also innovatively 
-combined the movie feature variables to predict the user’s attitude, and it is proved to be a successful
-supplement for the sentimental analysis. In order to get a better classifier, we conducted attempts at two 
-layers: to find the best predictor variables combination which has the best prediction performance and to find 
-the best classification model to make the most accurate prediction.
+combined the movie feature variables to predict the user’s attitude. <br>
+In order to get a better classifier, we conducted attempts at two layers: to find the best predictor variables 
+combination which has the best prediction performance and to find the best classification model to make the most 
+accurate prediction.
 </p>
 
-
+<p><strong>More</strong></p>
 
 </li>
 
