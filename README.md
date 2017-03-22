@@ -7,6 +7,22 @@
 <h3> My projects </h3>
 <ul>
 <li><strong> Yelp Data Visualization and Analysis </strong>
+<br>
+<p>Motivation: 
+   As we all know, America is a country full of diversive culture. People from all over the world come here to  
+   work,study and live. Among different elements, food is one of the most interesting topics we want to discover 
+   since it is so deeply involved in our daily life. On a large scale, we are interested in the spatial
+   distribution of number of restaurants in different states. Meanwhile, understanding restaurant’s price, 
+   rating, number of reviews and their kinds’ distribution will give us a rough idea about our own choice of 
+   food. As we go further in the discovery of restaurants, we expect we can find out connection between them by 
+   their kinds.</p>
+<br>
+<p>
+Data Collection and Processing: 
+1. 
+
+2. 
+
 
 
 
