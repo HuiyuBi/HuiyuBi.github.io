@@ -28,11 +28,11 @@ We scrap the Yelp website pages to get the data. The total number of pages we sc
 
 <p>
 <strong>Future Improvement:</strong><br>
-1.During web scraping, we divide a city into smaller sub-areas to avoid records lost. But that still limit our
+1. During web scraping, we divide a city into smaller sub-areas to avoid records lost. But that still limit our
 ability to get the data when subareas has more than 1000 records. <br>
-2.For now, we only obtain records from three cities. In the future, in order to get a more clearer picture of
+2. For now, we only obtain records from three cities. In the future, in order to get a more clearer picture of
 information we get, we need to collect more data.<br>
-3.This time, the goal for this project is data visualization. But this dataset is also good for building a
+3. This time, the goal for this project is data visualization. But this dataset is also good for building a
 recommendation system and so on. We can continue exploring that. <br>
 </p>
 
@@ -40,16 +40,22 @@ recommendation system and so on. We can continue exploring that. <br>
 
 
 
-<li><strong> Other projects </strong>
-
+<li><strong>Classify User’s Rating Based on IMDb Data</strong>
 
 </li>
+
+
+
+<li><strong>Establish Santander Product Recommendation System</strong>
+
+</li>
+
 
 
 </ul>
 
 
-<h3> More things </h3>
+<h3> My Experience </h3>
 
 
 
