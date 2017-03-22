@@ -1,12 +1,28 @@
 <h3> About me </h3>
-<p class = "red"> Hello! STA 141B </p>
 
-I am a master in Statistics at UC Davis.
-You can use the [editor on GitHub](https://github.com/HuiyuBi/HuiyuBi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p>My name is Huiyu Bi. I am a graduate student in Statistics at UC Davis. I also have received a bachelor‘s degree in Statistics at East China Normal University in 2015.<p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>I am interested in data analysis and proficient in R, Python, C and Matlab. Moreover, I am skillful at data manipulation with MySQL. So I want to find a job as a data analyst or data scientist.</p>
 
-<h3> My 141B project! </h3>
+<h3> My projects </h3>
+<ul>
+<li><strong> Yelp Data Visualization and Analysis </strong>
+
+
+
+</li>
+
+
+
+<li><strong> Other projects </strong>
+
+
+</li>
+
+
+
+</ul>
+
 <strong>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for </strong>
 
 ```markdown
