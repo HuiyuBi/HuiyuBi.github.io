@@ -6,7 +6,7 @@
 
 <h3> My projects </h3>
 <ul>
-<li><strong> Yelp Data Visualization and Analysis </strong>
+<li><strong><a href="141B_project/index.html>Yelp Data Visualization and Analysis </a></strong>
 <br>
 <p><strong>Motivation:</strong> <br>
    As we all know, America is a country full of diversive culture. People from all over the world come here to  
