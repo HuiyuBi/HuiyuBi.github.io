@@ -6,7 +6,7 @@
 
 <h3> My projects </h3>
 <ul>
-<li><strong>[Yelp Data Visualization and Analysis](https://github.com/HuiyuBi/HuiyuBi.github.io/blob/master/141B_project/index.html)</strong>
+<li><strong>Yelp Data Visualization and Analysis</strong>
 <br>
 <p><strong>Motivation:</strong> <br>
    As we all know, America is a country full of diversive culture. People from all over the world come here to  
