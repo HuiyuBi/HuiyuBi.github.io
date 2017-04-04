@@ -33,13 +33,15 @@ We aim to predict which products customers will purchase next month based on the
 </ul>
 
 <h3> EXPERIENCE </h3>
-<em><strong>Financial Analyst Internship, RadarWin Investment Management (Shanghai) Co., Ltd.</strong></em><br>
+<ul>
+<li><strong>Financial Analyst Internship, RadarWin Investment Management (Shanghai) Co., Ltd.</strong><br>
 Jun 2016 – Sep 2016, Shanghai, China
    
 <p>Our aim is to establish the average of consensus system in the field of bitcoin and blockchain. </p>
 <p>We collect news and public opinions about bitcoin, blockchain and digital assets through web scraping with Python. Then we arrange and clean all the data with R and import them into a MySQL database.</p>
 <p>Moreover, we conduct text mining, construct statistical language models and machine learning methods to analyze the correlation between public sentiment and the price of bitcoin. Finally, we find it exists strong correlation between public sentiment and the price of bitcoin.</p>
-       
+</li>
+</ul>     
 <p>Copyright Huiyu Bi &copy; 2017</p>
 
 
