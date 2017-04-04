@@ -1,73 +1,45 @@
 <h3> ABOUT ME </h3>
 
-<p>My name is Huiyu Bi. I am a graduate student in Statistics at UC Davis. I also have received a bachelor‘s degree in Statistics at East China Normal University in 2015.<p>
-
-<p>I am interested in data analysis and proficient in R, Python, C and Matlab. Moreover, I am skillful at data manipulation with MySQL. So I want to find a job as a data analyst or data scientist.</p>
+<p>My name is Huiyu Bi, a graduate student in Statistics at UC Davis. I also received a Bachelor’s degree in Statistics at East China Normal University in 2015. Now I am looking for a position of data analyst.<p>
+                
+<p>Equipped with 6 years' study in Statistics, I have a deep understanding of statistical theories and methods such as hypothesis testing, linear regression and ANOVA. Moreover, I am proficient in data cleaning, data analysis and data visualization with R, Python and Matlab and data manipulation with MySQL. Also I am familiar with C. </p> 
 
 <h3> PROJECTS </h3>
 <ul>
-<li><a href="141B_project/index.html"><strong>Yelp Data Visualization and Analysis</strong></a>(<a href="https://github.com/miaoelenawang/STA-141B-Final-Project">github for this project</a>)
-<br>
-<p><strong>Motivation:</strong> <br>
-   As we all know, America is a country full of diversive culture. People from all over the world come here to  
-   work,study and live. Among different elements, food is one of the most interesting topics we want to discover 
-   since it is so deeply involved in our daily life. On a large scale, we are interested in the spatial
-   distribution of number of restaurants in different states. Meanwhile, understanding restaurant’s price, 
-   rating, number of reviews and their kinds’ distribution will give us a rough idea about our own choice of 
-   food. As we go further in the discovery of restaurants, we expect we can find out connection between them by 
-   their kinds.</p>
-<p>
-<strong>Data Collection and Processing:</strong><br>
-We scrap the Yelp website pages to get the data. The total number of pages we scrap is over 20000. After getting the data from webpage, we first reformat some of the results. For instance, we treat reviews as numeric value and price as factors. Also we ignore the records with missing value. Finally we stack all those variables we got to be a dataframe.
-</p>
-<p>
-<strong>Data Exploration: </strong><br>
-1. Descriptive Statistics <br>
-2. Network Analysis
-</p>
-
-<p>
-<strong>Future Improvement:</strong><br>
-1. During web scraping, we divide a city into smaller sub-areas to avoid records lost. But that still limit our
-ability to get the data when subareas has more than 1000 records. <br>
-2. For now, we only obtain records from three cities. In the future, in order to get a more clearer picture of
-information we get, we need to collect more data.<br>
-3. This time, the goal for this project is data visualization. But this dataset is also good for building a
-recommendation system and so on. We can continue exploring that. <br>
-</p>
+<li><a href="https://miaoelenawang.github.io/STA-141B-Final-Project/"><strong>Yelp Data Visualization and Analysis</strong></a><br>
+Jan. 2017-Present, Davis, CA   
+ <p>
+ Our goal is to help business owners decide the location at which they can start or expand a business, set the right price and determine the attributes such as Wifi and Parking to improve the business and thus attract more customers.</p>
+ <p>
+ We scrap more than 20000 pages at Yelp website to get the data and focus on interactive visualization with Bokeh, plotly and folium to analyze. Also statistical analysis for hypothesis testing are carried on to determine the attributes.</p>
 </li>
 
 
-<li><strong>Classify User’s Rating Based on IMDb Data</strong>
-<br>
-<p><strong>Introduction:</strong><br>
-The Internet Movie Database (abbreviated IMDb) is an online database of information related to films, television
-programs and video games, including cast, production crew, fictional characters, biographies, plot summaries, 
-trivia and reviews. <br>
-In this project, we tried to use machine learning methods to conduct sentimental analysis of 
-a user’s polar rating for a particular movie based on his/her comment for this movie. We also innovatively 
-combined the movie feature variables to predict the user’s attitude. <br>
-In order to get a better classifier, we conducted attempts at two layers: to find the best predictor variables 
-combination which has the best prediction performance and to find the best classification model to make the most 
-accurate prediction.
-</p>
-
-<p><strong>More</strong></p>
-
+<li><strong><a href='Project/IMDb/IMDb_ppt.pdf'>Classify User’s Rating Based on IMDb Data</a></strong><br>
+Mar. 2016-Jun. 2016, Davis, CA
+<p>
+Our project can help a movie company to predict a movie's rating before the official release. For some movies that are low budget or uncommon, the company usually will have the test screening to obtain customers' comments for this movie.</p>
+<p> 
+In this project, we use machine learning methods to conduct sentimental analysis of a user’s polar rating for this movie based on his/her comment. We also innovatively combine the movie feature variables, like runtime, director and actors to predict the user’s attitude. Having a rough idea of the movie's reputation, the company can improve the marketing strategy to increase the box office revenue.</p>
 </li>
 
+<li><strong><a href='Project/Recommendation/Recommendation_ppt.pdf'>Establish Santander Product Recommendation System</a></strong><br>
+Sept. 2016-Dec. 2016, Davis, CA
+<p>
+We aim to predict which products customers will purchase next month based on their behavior from past 1.5 years and their basic information. </p>
 
-
-<li><strong>Establish Santander Product Recommendation System</strong>
-
+<p>The data is big, approximately 10 gigabytes. We use four machine learning methods: logistic regression, SVM, random forest and XGBoost to solve the problem. Since the team consists of 15 members, it is separated into 4 sub-teams. Our sub-team focuses on using SVM method to establish a multiclass classifier. The accuracy of the final model is about 66%.</p>
 </li>
-
-
-
 </ul>
 
-
 <h3> EXPERIENCE </h3>
-
+<em><strong>Financial Analyst Internship, RadarWin Investment Management (Shanghai) Co., Ltd.</strong></em><br>
+Jun 2016 – Sep 2016, Shanghai, China
+   
+<p>Our aim is to establish the average of consensus system in the field of bitcoin and blockchain. </p>
+<p>We collect news and public opinions about bitcoin, blockchain and digital assets through web scraping with Python. Then we arrange and clean all the data with R and import them into a MySQL database.</p>
+<p>Moreover, we conduct text mining, construct statistical language models and machine learning methods to analyze the correlation between public sentiment and the price of bitcoin. Finally, we find it exists strong correlation between public sentiment and the price of bitcoin.</p>
+       
+<p>Copyright Huiyu Bi &copy; 2017</p>
 
 
