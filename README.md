@@ -1,4 +1,5 @@
-<h3> ABOUT ME </h3> Github page is: <a href='https://huiyubi.github.io'>https://huiyubi.github.io</a>
+<p>Github page is: <a href='https://huiyubi.github.io'>https://huiyubi.github.io</a></p>
+<h3> ABOUT ME </h3> 
 
 <p>My name is Huiyu Bi, a graduate student in Statistics at UC Davis. I also received a Bachelor’s degree in Statistics at East China Normal University in 2015. Now I am looking for a position of data analyst.<p>
                 
