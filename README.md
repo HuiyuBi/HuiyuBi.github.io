@@ -7,7 +7,7 @@
 
 <h3> PROJECTS </h3>
 <ul>
-<li><a href="https://miaoelenawang.github.io/STA-141B-Final-Project/"><strong>Yelp Data Visualization and Analysis</strong></a><br>
+<li><a href="Project/Yelp/index.html"><strong>Business Exploration and Interactive Visualization for Yelp</strong></a><br>
 Jan. 2017-Present, Davis, CA   
  <p>
  Our goal is to help business owners decide the location at which they can start or expand a business, set the right price and determine the attributes such as Wifi and Parking to improve the business and thus attract more customers.</p>
